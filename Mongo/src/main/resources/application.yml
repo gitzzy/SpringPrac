@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://tyagidevansh10:m1janORY3HFiAjTT@tyagicluster.mmtpuww.mongodb.net/
+      database: EmpDB
+      
+    
